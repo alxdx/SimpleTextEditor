@@ -3,4 +3,4 @@ SimpleTextEditor for my Java introduction course. I helped a lot with some proje
 
 ![screen](capt.PNG)
 
-_I hate this course teacher_ :kiss::kiss::kiss:
+:kiss::kiss::kiss:
